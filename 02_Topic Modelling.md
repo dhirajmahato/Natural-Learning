@@ -12,3 +12,5 @@ LDA assumes each document consists of a combination of topics, and each topic co
 
 Document 1: Topic1 = 0.33, Topic2 = 0.33, Topic3 = 0.33
 Topic 1: Product = 0.39, Payment = 0.32, Store = 0.29
+
+[SRC](https://nicharuc.github.io/topic_modeling/)
